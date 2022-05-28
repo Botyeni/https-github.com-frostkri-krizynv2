@@ -1,5 +1,5 @@
 ![20220226_031131.jpg](https://user-images.githubusercontent.com/92458761/155840670-848b1313-1257-428b-87b3-0d35891e4dff.jpg)
-<h1 align="center">Allo mypren!👋, I'm Krizyn</h1>
+< h1 align = "center" > HOLA 👋, soy Krizyn </ h1 >m
 
 ## ```FOLLOW SOSIAL MEDIA ME```
 <p align="center">
@@ -16,9 +16,9 @@
   
 ## ```GROUP BOT```
 
-- [`GROUP WA`](https://chat.whatsapp.com/GQfybywcgb3AzNBP1zAs0h)
+- [`GROUP WA`]([https://chat.whatsapp.com/GQfybywcgb3AzNBP1zAs0h](https://chat.whatsapp.com/JfLi9hkG9Ie3Fj1RUDtzsI))
 
-  ## whatsapp number
+  ## número de whatsapp https://chat.whatsapp.com/JfLi9hkG9Ie3Fj1RUDtzsI
   Tanya tanya dengan saia
 * [`wassapp`](https://wa.me/62895327934887?text=Assalamualaikum+Banh+kri+gans)
 
